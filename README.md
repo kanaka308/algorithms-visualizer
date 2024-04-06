@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # 🗺 Path finding visualizer
 =======
-# Live Link : https://algo-visualizer-eosin-zeta.vercel.app/
+# Live Link : https://algorithms-visualizer-6xosazc7l-shivanands-projects-41869e30.vercel.app/
 # React + Vite
 >>>>>>> b1503df6cb9143fc0d1ca054c9cc1cf36b97ce57
 
