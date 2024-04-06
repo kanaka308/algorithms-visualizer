@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
     <nav className="flex items-center justify-around">
-      <button onClick={()=>setState(prev=>!prev)} className={`bg-violet-400 p-3 w-[50%] bg-${state?"grey":"via-violet-400"}`}>Sorting Algoritms</button>
+      <button onClick={()=>setState(prev=>!prev)} className={`bg-violet-400 p-3 w-[50%] border-2`}>Sorting Algoritms</button>
       <button onClick={()=>setState(prev=>!prev)} className={`bg-violet-400 p-3 w-[50%] border-2`}>Pathfinding Algorithms</button>
     </nav>
     {state ? <GridBoard/> : <SortingVisualizer/>}
